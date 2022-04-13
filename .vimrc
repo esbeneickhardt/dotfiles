@@ -12,6 +12,9 @@ set autoindent
 " Activating mouse
 set mouse=a
 
+" Tabs
+set tabpagemax=15
+
 " Plugins
 call plug#begin()
 Plug 'https://github.com/preservim/nerdtree.git'
