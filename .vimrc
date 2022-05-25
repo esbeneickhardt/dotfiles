@@ -2,7 +2,8 @@
 set encoding=utf-8
 
 " Setting clipboard
-set clipboard=unnamedplus
+vnoremap <C-c> "+y
+map <C-v> "+p
 
 " Line numbers
 set number
