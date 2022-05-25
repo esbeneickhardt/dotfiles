@@ -1,6 +1,9 @@
 " Encoding
 set encoding=utf-8
 
+" Setting clipboard
+set clipboard=unnamedplus
+
 " Line numbers
 set number
 set relativenumber
