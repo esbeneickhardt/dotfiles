@@ -23,6 +23,7 @@ set tabpagemax=15
 call plug#begin()
 Plug 'https://github.com/preservim/nerdtree.git'
 Plug 'https://github.com/ycm-core/YouCompleteMe.git'
+Plug 'https://github.com/psf/black.git'
 call plug#end()
 
 " Setting nerdtree shortcuts
